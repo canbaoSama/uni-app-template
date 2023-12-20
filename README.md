@@ -1,2 +1,1 @@
-# uni-app-template
-个人搭建的 uni-app 的项目模板
+1. static 文件夹能够通过 /static 识别，其他的则需要通过 @/ 识别，比如 @/assets

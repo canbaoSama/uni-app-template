@@ -1,0 +1,76 @@
+{
+    // 字体主题的设置
+    // "editor.fontFamily": "Fira Code", // 下载的苹果字体  在编辑器中使用的字体
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.fontWeight": "normal",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "eslint.workingDirectories": [],
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "files.associations": {
+        "*.vue": "vue",
+        "pages.json": "jsonc",
+        "manifest.json": "jsonc"
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "vue",
+        "typescript",
+        "jsx",
+        "js",
+        "json"
+    ],
+    "eslint.runtime": "",
+    "git.path": "C:/Program Files/Git/bin/git.exe",
+    "git.autofetch": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "explorer.confirmDelete": false,
+    "eslint.debug": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.eol": "\n",
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "onFocusChange",
+    "eslint.alwaysShowStatus": true,
+    "[vue]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.formatOnSave": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "fauxpilot.maxTokens": 128,
+    "fauxpilot.server": "http://codegen.xwbx.ink:62005/v1/engines",
+    "fauxpilot.suggestionDelay": 200,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.detectIndentation": false,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "prettier.tabWidth": 4,
+    "html.format.wrapLineLength": 200,
+    "prettier.printWidth": 200,
+    "prettier.trailingComma": "all",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "eslint.packageManager": "pnpm",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never"
+}
